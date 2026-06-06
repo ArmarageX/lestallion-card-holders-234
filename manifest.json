@@ -1,0 +1,30 @@
+{
+  "row": 234,
+  "provider": "Fly.io",
+  "target": "https://lestallion.com/blogs/product-reviews/best-business-card-holders-for-professionals",
+  "prev": "https://stellar-vault-95zj.here.now/index.html",
+  "t1_url": "https://ls-card-holders-234.fly.dev/index.html",
+  "repo": "https://github.com/armaragex/lestallion-card-holders-234",
+  "pages": [
+    "about.html",
+    "desk-impression.html",
+    "capacity.html",
+    "privacy.html",
+    "portable.html",
+    "value.html",
+    "contact.html",
+    "materials.html",
+    "visibility.html",
+    "index.html"
+  ],
+  "images": [
+    "image-8.webp",
+    "image-3.webp",
+    "image-2.webp",
+    "image-4.webp",
+    "image-5.webp",
+    "image-1.webp",
+    "image-6.webp",
+    "image-7.webp"
+  ]
+}
